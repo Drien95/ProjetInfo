@@ -4,13 +4,13 @@
 Ce projet est découpé en deux exercices. Le premier consiste à prédire le prix d'un logement 
 donné par rapport à la similarité des "k" logements les plus similaires.
 
-Le second consiste à faire une liste de processus que l'on passera dans un ordonnanceur, on pourra par la suite regardé, éxecuter 1 fois ou éxecuter complétement l'ordonnanceur.
+Le second consiste à faire une liste de processus que l'on passera dans un ordonnanceur, on pourra par la suite regarder, éxecuter 1 fois ou éxecuter complétement l'ordonnanceur.
 
 
 
 ## Installation
 
-Après avoir télécharger le projet, compressez le avec `tar`
+Après avoir télécharger le projet, décompressez le avec `tar`
 
 ```bash
   tar -xzvf [nom_du_fichier_a_decompresser] -C [endroit_ou_le_decompresser]
